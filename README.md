@@ -1,4 +1,4 @@
-# TodoList
+# Retro STyle TodoList
 
 
 mini project with javascript
